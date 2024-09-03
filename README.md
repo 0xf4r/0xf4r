@@ -67,9 +67,7 @@ For collaborations, consultations, or just a chat about cloud security and autom
 
 ## 🛠️ Noteworthy Projects
 
-- **[Azure Security Automation](https://github.com/0xf4r/azure-security-automation):** Comprehensive scripts and tools for enhancing security in Azure environments.
-- **[VMware CloudOps Toolkit](https://github.com/0xf4r/vmware-cloudops-toolkit):** A suite of tools and scripts designed for efficient VMware environment management.
-- **[PowerShell Security Modules](https://github.com/0xf4r/powershell-security-modules):** Specialized PowerShell modules for automating security tasks and incident response.
+- **[Coming Soon](#):**
 
 ---
 
