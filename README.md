@@ -49,8 +49,7 @@
 
 <div style="border: 1px solid #ccc; border-radius: 10px; padding: 15px; background-color: #f9f9f9; margin: 10px 0; text-align: center;">
     <p style="font-style: italic; font-size: 16px; color: #555;">
-        “Be the most well-researched in the room. Don’t try to be the smartest.” – **Chris Voss**  
-        *(Source: Chris Voss, former FBI hostage negotiator and author of *Never Split the Difference: Negotiating As If Your Life Depended On It*, 2016)*
+        “Be the most well-researched in the room. Don’t try to be the smartest.” – Chris Voss, former FBI hostage negotiator and author of 'Never Split the Difference: Negotiating As If Your Life Depended On It' (2016)
     </p>
 </div>
 
