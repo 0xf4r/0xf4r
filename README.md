@@ -1,33 +1,41 @@
 <!-- ====== Header / banner ====== -->
-<a href="https://github.com/0xf4r">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0078D4,100:0a0a23&height=200&section=header&text=0xf4r&fontSize=70&fontColor=ffffff&animation=fadeIn&desc=Azure%20CloudOps%20%7C%20Security%20%7C%20Hybrid%20Infrastructure&descSize=18&descAlignY=62" width="100%"/>
-</a>
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF2E97,50:7A5FFF,100:00E5FF&height=190&section=header&text=0xf4r&fontSize=72&fontColor=ffffff&animation=fadeIn" width="100%"/>
+
+<!-- Role / location (kept out of the banner so the words stay aligned) -->
+### Azure CloudOps · Security Engineering · Hybrid Infrastructure
+<i>London, UK 🇬🇧 · Financial sector</i>
 
 <!-- ====== Typing intro ====== -->
-<p align="center">
-  <a href="https://github.com/0xf4r">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3200&pause=900&color=7AA2F7&center=true&vCenter=true&width=820&height=45&lines=Securing+%26+automating+the+cloud-to-on-prem+edge;Azure+landing+zones%2C+hardened+by+default;VMware+%E2%86%92+Windows+%E2%86%92+Linux+%E2%86%92+Cloud;FinServ-grade+infrastructure+%26+compliance" alt="Typing SVG"/>
-  </a>
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=900&color=FF2E97&center=true&vCenter=true&width=860&height=50&lines=Securing+%26+automating+the+cloud-to-on-prem+edge;Azure+landing+zones%2C+hardened+by+default;VMware+%E2%86%92+Windows+%E2%86%92+Linux+%E2%86%92+Cloud;FinServ-grade+infrastructure+%26+compliance" alt="Typing SVG"/>
 
 <!-- ====== Social ====== -->
-<p align="center">
-  <a href="https://www.linkedin.com/in/0xf4r"><img src="https://img.shields.io/badge/LinkedIn-1A1B27?style=for-the-badge&logo=linkedin&logoColor=7AA2F7"/></a>
-  <a href="https://twitter.com/0xf4r"><img src="https://img.shields.io/badge/Twitter-1A1B27?style=for-the-badge&logo=x&logoColor=7AA2F7"/></a>
-  <a href="https://github.com/0xf4r"><img src="https://komarev.com/ghpvc/?username=0xf4r&style=for-the-badge&color=7AA2F7&label=PROFILE+VIEWS"/></a>
+<p>
+  <a href="https://www.linkedin.com/in/0xf4r"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=00E5FF"/></a>
+  <a href="https://twitter.com/0xf4r"><img src="https://img.shields.io/badge/Twitter-0D1117?style=for-the-badge&logo=x&logoColor=FF2E97"/></a>
+  <a href="https://github.com/0xf4r"><img src="https://komarev.com/ghpvc/?username=0xf4r&style=for-the-badge&color=FF2E97&label=PROFILE+VIEWS"/></a>
 </p>
+
+</div>
 
 ---
 
-## 👨‍💻 whoami
+## 🔐 whoami
 
-```yaml
-name:        0xf4r
-role:        Azure CloudOps & Security Engineer
-location:    London, UK  🇬🇧
-sector:      Financial services
-focus:       [ cloud security, hardening, hybrid infrastructure, automation ]
-mantra:      "Be the most well-researched in the room — not the smartest."
+```bash
+$ whoami
+0xf4r
+
+$ cat ./profile.json
+{
+  "role":      "Azure CloudOps & Security Engineer",
+  "location":  "London, UK",
+  "sector":    "Financial services",
+  "clearance": "need-to-know  🔒",
+  "principle": "least privilege, by default",
+  "focus":     ["cloud security", "hardening", "hybrid infra", "automation"]
+}
 ```
 
 I work where **on-prem meets cloud meets security** — bridging VMware, Windows, and Linux
@@ -87,9 +95,9 @@ repetitive parts away with infrastructure as code and PowerShell.
       <img src="https://img.shields.io/badge/Defender_for_Cloud-0078D4?style=flat-square&logo=microsoft&logoColor=white"/>
       <img src="https://img.shields.io/badge/Sentinel_SIEM%2FSOAR-0078D4?style=flat-square&logo=microsoft&logoColor=white"/>
       <img src="https://img.shields.io/badge/Purview-0078D4?style=flat-square&logo=microsoft&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Zero_Trust-1A1B27?style=flat-square&logo=auth0&logoColor=7AA2F7"/>
-      <img src="https://img.shields.io/badge/CIS_Benchmarks-1A1B27?style=flat-square&logo=springsecurity&logoColor=7AA2F7"/>
-      <img src="https://img.shields.io/badge/MITRE_ATT%26CK-1A1B27?style=flat-square&logo=target&logoColor=7AA2F7"/>
+      <img src="https://img.shields.io/badge/Zero_Trust-0D1117?style=flat-square&logo=auth0&logoColor=FF2E97"/>
+      <img src="https://img.shields.io/badge/CIS_Benchmarks-0D1117?style=flat-square&logo=springsecurity&logoColor=00E5FF"/>
+      <img src="https://img.shields.io/badge/MITRE_ATT%26CK-0D1117?style=flat-square&logo=target&logoColor=FF2E97"/>
       <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white"/>
       <img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white"/>
     </td>
@@ -145,16 +153,16 @@ repetitive parts away with infrastructure as code and PowerShell.
 ## 📊 GitHub stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=0xf4r&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&theme=tokyonight"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xf4r&layout=compact&langs_count=8&hide_border=true&theme=tokyonight"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=0xf4r&show_icons=true&count_private=true&hide_border=true&theme=radical"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xf4r&layout=compact&langs_count=8&hide_border=true&theme=radical"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=0xf4r&hide_border=true&theme=tokyonight"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=0xf4r&hide_border=true&theme=radical"/>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=0xf4r&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=0xf4r&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=8"/>
 </p>
 
 <!-- ====== Snake (powered by .github/workflows/snake.yml) ====== -->
@@ -181,4 +189,6 @@ repetitive parts away with infrastructure as code and PowerShell.
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a23,100:0078D4&height=120&section=footer&text=Let's%20build%20something%20secure.&fontSize=22&fontColor=ffffff" width="100%"/>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00E5FF,50:7A5FFF,100:FF2E97&height=130&section=footer&text=Secure%20by%20design.%20Automated%20by%20default.&fontSize=20&fontColor=ffffff&fontAlignY=72" width="100%"/>
+</div>
