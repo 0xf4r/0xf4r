@@ -1,45 +1,71 @@
-<!-- ============================================================
-     THEME 4 — CUSTOM COMBINED
-     header: theme1 · about + details + currently + work: theme3
-     arsenal + certs: original README · stats + socials: theme2
-     titles & voice: theme3 (clean)
-     ============================================================ -->
+<!-- ====== Header / banner ====== -->
+<div align="center">
 
-```
-        ___       __ _  _
-       / _ \__  _/ _| || |  _ __
-      | | | \ \/ / |_| || |_| '__|
-      | |_| |>  <|  _|__   _| |
-       \___//_/\_\_|    |_| |_|
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF2E97,50:7A5FFF,100:00E5FF&height=190&section=header&text=0xf4r&fontSize=72&fontColor=ffffff&animation=fadeIn" width="100%"/>
 
-      Azure CloudOps · Security Engineering · Hybrid Infrastructure
-      London, UK · Financial sector
-```
+<!-- Role / location (kept out of the banner so the words stay aligned) -->
+### Azure CloudOps · Security Engineering · Hybrid Infrastructure
+<i>London, UK 🇬🇧 · Financial sector</i>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3200&pause=900&color=39FF14&width=860&height=40&lines=%24+./profile.sh+--secure;Securing+%26+automating+the+cloud-to-on-prem+edge;VMware+%E2%86%92+Windows+%E2%86%92+Linux+%E2%86%92+Cloud" alt="typing"/>
+<!-- ====== Typing intro ====== -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=900&color=FF2E97&center=true&vCenter=true&width=860&height=50&lines=Securing+%26+automating+the+cloud-to-on-prem+edge;Azure+landing+zones%2C+hardened+by+default;VMware+%E2%86%92+Windows+%E2%86%92+Linux+%E2%86%92+Cloud;FinServ-grade+infrastructure+%26+compliance" alt="Typing SVG"/>
 
----
+<!-- ====== Social ====== -->
+<p>
+  <a href="https://www.linkedin.com/in/0xf4r"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=00E5FF"/></a>
+  <a href="https://twitter.com/0xf4r"><img src="https://img.shields.io/badge/Twitter-0D1117?style=for-the-badge&logo=x&logoColor=FF2E97"/></a>
+  <a href="https://github.com/0xf4r"><img src="https://komarev.com/ghpvc/?username=0xf4r&style=for-the-badge&color=FF2E97&label=PROFILE+VIEWS"/></a>
+</p>
 
-## About
-
-Azure CloudOps & Security Engineer focused on regulated, financial-sector workloads.
-I bridge VMware, Windows, and Linux estates into Azure, harden them to financial-sector
-standards, and replace repetitive operations with infrastructure as code and PowerShell.
-My default position is **least privilege, identity-first, secure by design**.
-
-<br/>
-
-## What I do
-
-| | Focus | Detail |
-|---|---|---|
-| ☁️ | **Cloud** | Azure landing zones, governance, cost & policy. Identity-first design with Entra ID. |
-| 🛡️ | **Security** | Hardening, threat detection & compliance for regulated workloads via Defender and Sentinel. |
-| 🏢 | **Hybrid ops** | VMware, Windows Server & Linux bridged to cloud — automated with Terraform and Bicep. |
+</div>
 
 ---
 
-## Arsenal
+## 🔐 whoami
+
+```bash
+$ whoami
+0xf4r
+
+$ cat ./profile.json
+{
+  "role":      "Azure CloudOps & Security Engineer",
+  "location":  "London, UK",
+  "sector":    "Financial services",
+  "clearance": "need-to-know  🔒",
+  "principle": "least privilege, by default",
+  "focus":     ["cloud security", "hardening", "hybrid infra", "automation"]
+}
+```
+
+I work where **on-prem meets cloud meets security** — bridging VMware, Windows, and Linux
+estates into Azure, hardening everything to financial-sector standards, and automating the
+repetitive parts away with infrastructure as code and PowerShell.
+
+---
+
+## 🧭 What I bring to the table
+
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <h3 align="center">☁️ Cloud</h3>
+      <p align="center">Azure landing zones, governance, cost, and policy. Identity-first design with Entra ID.</p>
+    </td>
+    <td width="33%" valign="top">
+      <h3 align="center">🛡️ Security</h3>
+      <p align="center">Hardening, threat detection, and compliance for regulated workloads with Defender and Sentinel.</p>
+    </td>
+    <td width="33%" valign="top">
+      <h3 align="center">🏢 Hybrid ops</h3>
+      <p align="center">VMware, Windows Server, and Linux bridged to cloud — automated with Terraform and Bicep.</p>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 🧰 Arsenal
 
 <table>
   <tr>
@@ -116,7 +142,7 @@ My default position is **least privilege, identity-first, secure by design**.
 
 ---
 
-## Certifications
+## 📜 Certifications
 <!-- Keep only the ones you hold or are pursuing; delete the rest. -->
 ![AZ-500](https://img.shields.io/badge/AZ--500_Azure_security_engineer-0078D4?style=flat-square&logo=microsoft&logoColor=white)
 ![AZ-104](https://img.shields.io/badge/AZ--104_Azure_administrator-0078D4?style=flat-square&logo=microsoft&logoColor=white)
@@ -124,16 +150,38 @@ My default position is **least privilege, identity-first, secure by design**.
 
 ---
 
-## Currently
+## 📊 GitHub stats
 
-- Shipping reusable **Terraform & Bicep modules** for secure Azure landing zones
-- Sharpening **Sentinel detection engineering** with KQL hunting queries
-- Deepening **cloud-native threat detection** and zero-trust patterns
-- Open to talking about **Azure security, hardening, IaC, and automation**
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=0xf4r&show_icons=true&count_private=true&hide_border=true&theme=radical"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xf4r&layout=compact&langs_count=8&hide_border=true&theme=radical"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=0xf4r&hide_border=true&theme=radical"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=0xf4r&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=8"/>
+</p>
+
+<!-- ====== Snake (powered by .github/workflows/snake.yml) ====== -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/0xf4r/0xf4r/output/github-contribution-grid-snake-dark.svg"/>
+</p>
 
 ---
 
-## Selected work
+## 🚀 Currently
+
+- 🔭 Shipping reusable **Terraform and Bicep modules** for secure Azure landing zones
+- 🛡️ Sharpening **Sentinel detection engineering** with KQL hunting queries
+- 🌱 Deepening **cloud-native threat detection** and zero-trust patterns
+- 💬 Ask me about **Azure security, hardening, infrastructure as code, and automation**
+
+---
+
+## 📝 Latest work
 <!-- BLOG-POST-LIST:START -->
 - [5-week DevOps roadmap for system administrators](https://github.com/0xf4r/DevOps-Roadmap-for-System-Administrator-5-Weeks-)
 - [PowerShell scripts](https://github.com/0xf4r/PowerShell-Scripts)
@@ -141,30 +189,6 @@ My default position is **least privilege, identity-first, secure by design**.
 
 ---
 
-## Activity
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=0xf4r&show_icons=true&count_private=true&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=00E5FF&icon_color=39FF14"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xf4r&layout=compact&langs_count=8&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=00E5FF"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=0xf4r&hide_border=true&theme=tokyonight&background=0D1117&ring=00E5FF&fire=39FF14&currStreakLabel=00E5FF"/>
-</p>
-
-<!-- Snake — powered by .github/workflows/snake.yml -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/0xf4r/0xf4r/output/github-contribution-grid-snake-dark.svg"/>
-</p>
-
----
-
 <div align="center">
-
-<a href="https://www.linkedin.com/in/0xf4r"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=00E5FF"/></a>
-<a href="https://twitter.com/0xf4r"><img src="https://img.shields.io/badge/Twitter-0D1117?style=for-the-badge&logo=x&logoColor=39FF14"/></a>
-<a href="https://github.com/0xf4r"><img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white"/></a>
-
-<sub><code>// secure by design. automated by default.</code></sub>
-
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00E5FF,50:7A5FFF,100:FF2E97&height=130&section=footer&text=Secure%20by%20design.%20Automated%20by%20default.&fontSize=20&fontColor=ffffff&fontAlignY=72" width="100%"/>
 </div>
